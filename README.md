@@ -1,6 +1,12 @@
 # hello-boys
 this is a test
 
+$ git clone git@github.com:hirocastest/Hello-World.git
+Cloning into 'Hello-World'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Receiving objects: 100% (3/3), done.
+$ cd Hello-World
 
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
